@@ -131,9 +131,3 @@ Todos los comandos del bot han sido renovados para que, si no ingresas argumento
 
 ---
 
-## ⚙️ Cómo Iniciar el Bot
-
-```powershell
-cd "C:\Users\sintu\Documents\visual\DiscordBot"
-npm start
-```
